@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\bin\Debug\net9.0\server.exe
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\bin\Debug\net9.0\server.deps.json
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\bin\Debug\net9.0\server.runtimeconfig.json
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\bin\Debug\net9.0\server.dll
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\bin\Debug\net9.0\server.pdb
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\obj\Debug\net9.0\server.sourcelink.json
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\obj\Debug\net9.0\server.dll
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\obj\Debug\net9.0\refint\server.dll
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\obj\Debug\net9.0\server.pdb
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+C:\Users\Admin\Downloads\lab4_isrpo_tekutova_isp-231\server\obj\Debug\net9.0\ref\server.dll
