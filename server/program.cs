@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("=== Лабораторная работа №4 ===");
+        Console.WriteLine("ФИО: Текутова Виктория Денисовна");
+    }
+}
