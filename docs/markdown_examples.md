@@ -85,13 +85,16 @@ class Program
 ## 8. Картинка (Изображения)
 
 ### Скриншот главной страницы:
-![Главная страница](repo/browser_Tekutova.png)
+
+![Главная страница](../repo/browser_Tekutova.png)
 
 ### Скриншот работы программы:
-![Backend программа](repo/backend_Tekutova.png)
+
+![Backend программа](../repo/backend_Tekutova.png)
 
 ### Скриншот структуры проекта:
-![Структура в терминале](repo/terminal_Tekutova.png)
+
+![Структура в терминале](../repo/terminal_Tekutova.png)
 
 ## 9. Ccылки
 
@@ -120,5 +123,5 @@ class Program
 $$ 
 \sum_{i=1}^{n} i 
 = \frac{n(n+1)}{2}
-
+$$
 
