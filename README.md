@@ -55,6 +55,10 @@ class Program
 ```
 #### Пример LaTeX
 Площадь круга: $S = \pi r^2$
+$$ 
+\sum_{i=1}^{n} i 
+= \frac{n(n+1)}{2}
+$$
 ---
 #### Ссылка на репозиторий:
 [Репозиторий](https://github.com/vikatekutova7-ui/lab4_tekutova_isrpo.git)
