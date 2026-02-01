@@ -109,8 +109,9 @@ class Program
 Формула: $a^2 + b^2 = c^2$
 Квадратное уравнение: $ax^2+bx+c=0$
 ### Block LaTeX:
-​$$
-\sum_{i=1}^n i = \frac{n(n+1)}{2}
-$$
+
+$$ 
+\sum_{i=1}^{n} i 
+= \frac{n(n+1)}{2}
 
 
